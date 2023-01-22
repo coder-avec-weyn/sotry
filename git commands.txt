@@ -1,0 +1,10 @@
+git init
+git add
+git commit -m "message of version"
+git checkout 
+git diff file(chapter3.txt)
+git remote add origin(any name but this is preferable) paster url of remote repository
+git push -u origin <branch name>
+git rm --cached -r .
+create a hidden folder ".gitignore"
+git clone
